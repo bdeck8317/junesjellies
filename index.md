@@ -1,6 +1,6 @@
 # Remembering June Deck
 
-My grandmother, June, was one of the hardest working and thoughtful person I have ever encountered. She put love and effort into everything she made, and it always seemed that her recipes tasted best.
+My grandmother, June, was one of the hardest working and thoughtful people I have ever encountered. She put love and effort into everything she made, and it always seemed that her recipes tasted best.
 
 
 More text here.
