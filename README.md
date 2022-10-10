@@ -1,2 +1,2 @@
-# Junesjellies
-June Deck's famous jelly recipe!
+# Junes Jellies
+June Deck's beloved pear jelly recipe!
