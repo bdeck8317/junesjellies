@@ -1,5 +1,9 @@
+# Remembering June Deck
 
-Grandma Deck’s Pear Preserves Recipe
+My grandmother, June, was one of the hardest working and thoughtful person I have ever encountered. She put love and effort into everything she made, and it always seemed that her recipes tasted best.
+
+
+
 
 4 cups of prepared pears (about 3 pounds of ripe fruit)
 
