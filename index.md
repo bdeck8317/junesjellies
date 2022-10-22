@@ -1,5 +1,5 @@
 <img src="grandma13.jpg" class="inline" width="200" height="300">
-<img src="grandma2.jpg" class="inline" width="200" height="300">
+<img src="grandma2.jpg" class="inline" width="200" height="200">
 
 
 
