@@ -1,3 +1,6 @@
+<img src="grandma13.jpg" class="inline"/>
+
+
 My grandmother, June, was one of the hardest-working and most thoughtful people I have ever encountered. She put a lot of love and effort into everything she made, and it always seemed that her recipes tasted the best. Through her pear jelly recipe, her love and kindness have lived on. It has been a staple in the family for years serving as the final variable for the perfect dinner roll at Thanksgiving, Christmas, and Easter dinners. Or perhaps just late-night peanut butter and pear jelly sandwiches that I became fond of while in college.
 
 We hope you use this recipe to bring happiness to your family, as it has brought so much to ours.
