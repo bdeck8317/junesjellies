@@ -12,7 +12,10 @@
 We hope you use this recipe to bring happiness to your family, as it has brought so much to ours.
 --Ben
 
+</p>
 
+
+<p align="center">
 
 # June's beloved pear jelly recipe
 
