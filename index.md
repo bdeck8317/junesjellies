@@ -1,6 +1,6 @@
 <p align="center">
 
-// Your content
+
 
 
 <img src="grandma2.jpg" width="200" height="200" class="inline">
