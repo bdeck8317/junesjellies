@@ -1,5 +1,5 @@
 <p align="center">
-<img src="grandma2.jpg" width="200" height="200" class="inline">
+<img src="grandma2.jpg" width="250" height="250" class="inline">
 </p>
 
 My grandmother, June, was one of the hardest-working and most thoughtful people I have ever encountered. She put a lot of love and effort into everything she made, and it always seemed that her recipes tasted the best. Through her pear jelly recipe, her love and kindness have lived on. It has been a staple in the family for years serving as the final variable for the perfect dinner roll at Thanksgiving, Christmas, and Easter dinners. Or perhaps just late-night peanut butter and pear jelly sandwiches that I became fond of while in college.
@@ -42,7 +42,7 @@ Yields approximately 8-9, 8 ounce jars of preserves.
 
 <p align="center">
 
-<img src="grandma13.jpg" class="inline" width="400" height="500">
+<img src="grandma13.jpg" class="inline" width="300" height="400">
 </p>
 
 June in Myerstown, PA circa 1943
