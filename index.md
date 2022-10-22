@@ -1,4 +1,4 @@
-<img src="grandma2.jpg" class="inline" width="200" height="200">
+<img src="grandma2.jpg" class="inline" width="200" height="200" class="center">
 
 
 
