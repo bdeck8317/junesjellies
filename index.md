@@ -1,4 +1,9 @@
-<img src="grandma2.jpg" width="200" height="200" class="center">
+<p align="center">
+
+// Your content
+
+
+<img src="grandma2.jpg" width="200" height="200" class="inline">
 
 
 
@@ -38,3 +43,5 @@ Peel, core and chop very fine, 3 pounds of ripe pears. Add chopped pears, water 
 Yields approximately 8-9, 8 ounce jars of preserves.
 
 <img src="grandma13.jpg" class="inline" width="200" height="300">
+  
+</p>
