@@ -1,4 +1,3 @@
-<img src="grandma13.jpg" class="inline" width="200" height="300">
 <img src="grandma2.jpg" class="inline" width="200" height="200">
 
 
@@ -44,3 +43,5 @@ Add image here
 Peel, core and chop very fine, 3 pounds of ripe pears. Add chopped pears, water and lemon juice into saucepan. Cook until fruit is soft. Use a food mill or potato masher to mash the cooked fruit. Place 4 cups of the prepared fruit & juice mixture into a large saucepan. Add the Sure Jell pectin and bring to a full rolling boil. Add the exact amount of sugar and the cinnamon, cloves and allspice into the saucepan and mix well. Bring the mixture back to a full rolling boil, stirring constantly. Boil hard for 1 minute, stirring constantly to minimize foaming. Ladle preserves into jars and seal.
 
 Yields approximately 8-9, 8 ounce jars of preserves.
+
+<img src="grandma13.jpg" class="inline" width="200" height="300">
