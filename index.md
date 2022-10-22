@@ -9,13 +9,6 @@ We hope you use this recipe to bring happiness to your family, as it has brought
 
 
 
-
-Add image here
-
-
-
-
-
 # June's beloved pear jelly recipe
 
 
