@@ -42,6 +42,6 @@ Yields approximately 8-9, 8 ounce jars of preserves.
 
 <p align="center">
 
-<img src="grandma13.jpg" class="inline" width="200" height="300">
+<img src="grandma13.jpg" class="inline" width="400" height="500">
   
 </p>
